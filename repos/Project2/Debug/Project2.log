@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+D:\repos\Project2\Origem.cpp(6,1): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  Project2.vcxproj -> D:\repos\Project2\Debug\Project2.exe
