@@ -1,0 +1,2 @@
+D:\GitHub\C\repos\Project4\Debug\Project4.exe
+D:\GitHub\C\repos\Project4\Debug\Project4.pdb

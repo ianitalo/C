@@ -1,0 +1,6 @@
+﻿  Origem.cpp
+D:\GitHub\C\repos\Project3\Origem.cpp(1,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+D:\GitHub\C\repos\Project3\Origem.cpp(6,1): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+D:\GitHub\C\repos\Project3\Origem.cpp(8,20): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+D:\GitHub\C\repos\Project3\Origem.cpp(8,17): warning C4244: 'inicializando': conversão de 'double' para 'const float', possível perda de dados
+  Project3.vcxproj -> D:\GitHub\C\repos\Project3\Debug\Project3.exe
