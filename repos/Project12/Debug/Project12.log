@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+D:\GitHub\C\repos\Project12\Origem.cpp(1,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+D:\GitHub\C\repos\Project12\Origem.cpp(5,1): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  Project12.vcxproj -> D:\GitHub\C\repos\Project12\Debug\Project12.exe

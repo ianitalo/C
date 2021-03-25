@@ -1,0 +1,7 @@
+﻿  Origem.cpp
+D:\GitHub\C\repos\Project13\Origem.cpp(1,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+D:\GitHub\C\repos\Project13\Origem.cpp(22,1): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+D:\GitHub\C\repos\Project13\Origem.cpp(24,17): warning C4101: 'l3': variável local não referenciada
+D:\GitHub\C\repos\Project13\Origem.cpp(24,9): warning C4101: 'l1': variável local não referenciada
+D:\GitHub\C\repos\Project13\Origem.cpp(24,13): warning C4101: 'l2': variável local não referenciada
+  Project13.vcxproj -> D:\GitHub\C\repos\Project13\Debug\Project13.exe

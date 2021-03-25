@@ -1,0 +1,6 @@
+﻿  Origem.cpp
+D:\GitHub\C\repos\Project14\Origem.cpp(1,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+D:\GitHub\C\repos\Project14\Origem.cpp(17,1): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+D:\GitHub\C\repos\Project14\Origem.cpp(28,31): warning C4305: 'inicializando': truncamento de '__int64' para 'unsigned long'
+D:\GitHub\C\repos\Project14\Origem.cpp(28,20): warning C4309: 'inicializando': truncamento de valor constante
+  Project14.vcxproj -> D:\GitHub\C\repos\Project14\Debug\Project14.exe
