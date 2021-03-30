@@ -1,0 +1,2 @@
+D:\GitHub\C\repos\Time\Debug\Time.exe
+D:\GitHub\C\repos\Time\Debug\Time.pdb

@@ -1,0 +1,2 @@
+D:\GitHub\C\repos\teste\Debug\teste.exe
+D:\GitHub\C\repos\teste\Debug\teste.pdb

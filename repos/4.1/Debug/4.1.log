@@ -1,0 +1,7 @@
+﻿  Origem.cpp
+D:\GitHub\C\repos\4.1\Origem.cpp(1,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+D:\GitHub\C\repos\4.1\Origem.cpp(6,20): warning C4018: '<=': incompatibilidade de signed/unsigned
+D:\GitHub\C\repos\4.1\Origem.cpp(14,23): warning C4018: '<=': incompatibilidade de signed/unsigned
+D:\GitHub\C\repos\4.1\Origem.cpp(27,15): warning C4101: 'pos2': variável local não referenciada
+D:\GitHub\C\repos\4.1\Origem.cpp(27,9): warning C4101: 'pos1': variável local não referenciada
+  4.1.vcxproj -> D:\GitHub\C\repos\4.1\Debug\4.1.exe

@@ -1,0 +1,5 @@
+﻿  Origem.cpp
+D:\GitHub\C\repos\Time\Origem.cpp(1,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+D:\GitHub\C\repos\Time\Origem.cpp(2,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+D:\GitHub\C\repos\Time\Origem.cpp(13,1): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  Time.vcxproj -> D:\GitHub\C\repos\Time\Debug\Time.exe

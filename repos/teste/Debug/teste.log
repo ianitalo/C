@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+D:\GitHub\C\repos\teste\Origem.cpp(5,33): warning C4101: 'y': variável local não referenciada
+D:\GitHub\C\repos\teste\Origem.cpp(5,30): warning C4101: 'x': variável local não referenciada
+  teste.vcxproj -> D:\GitHub\C\repos\teste\Debug\teste.exe
